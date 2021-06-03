@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVhat will you have? A calfe with a white face, or, A relation of his travailes from England into Ireland, Scotland, Poland, Holland, Amsterdam, and other places and is now newly arrived at the citie of London where he meanes to abide.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65605</idno><idno type="EEBO-CITATION">13523933</idno>
+  <idno type="VID">99963</idno>
+  <idno type="EEBO-PROQUEST">2240851932</idno>
+  
+            <idno type="STC">Wing W1582</idno>
+            <idno type="STC">ESTC R33588</idno>
+            <idno type="OCLC">13523933</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A65605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99963)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1559:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVhat will you have? A calfe with a white face, or, A relation of his travailes from England into Ireland, Scotland, Poland, Holland, Amsterdam, and other places and is now newly arrived at the citie of London where he meanes to abide.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.p. contains woodcut illus.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99963:1"/>
+            <pb facs="tcp:99963:1"/>
+            <p>VVhat will you have? A CALFE WITH A VVHITE FACE.</p>
+            <p>Or, a Relation of his Travailes from England into Ireland, Scotland, Poland, Holland, Amsterdam, and other places, and is now newly arrived in the Citie of London, where he meanes to abide.</p>
+            <figure>
+               <figDesc>depiction of a male figure in cavalier dress, a calf with a white face, and three male figures in puritan dress</figDesc>
+            </figure>
+            <p>Printed at London, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:99963:2"/>
+            <pb n="3" facs="tcp:99963:2"/>
+            <head>VVhat will you have? a CALFE with a WHITE FACE.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LL those who are troubled with the <hi>Grum<g ref="char:EOLhyphen"/>bling in the Gizzard,</hi> or the <hi>Fancies,</hi> whom no Government, or any Order, Rule or Pow<g ref="char:EOLhyphen"/>er in Church or State can content; all such as are never well (full or fasting) Who will have better Bread then is made of Wheat, with the rest of that stubborne and stiffe-neck'd Generation; all these sorts of mischiefe-making Murmurers, that labour the ruine of all, for their own pecular profits and privat ends; such as only love themselves, and yet hate one another dead<g ref="char:EOLhyphen"/>ly; all such I do freely invite to the eating of my <hi>Calfe with the white face.</hi>
+            </p>
+            <p>Now what this <hi>Calfe</hi> is, and what it is not, or from whence it came, and had it's breeding, is necessary to be declared.</p>
+            <p>First, this <hi>Calfe</hi> is not a <hi>golden Calfe,</hi> such a one as the two-legg'd <hi>Calves</hi> of <hi>Israel</hi> worship'd whilst <hi>Moses</hi> was in the Mount; nor such a one as the brace of <hi>Calves</hi> was, which <hi>Jeroeboam</hi> set up, the one at <hi>Beth-el,</hi> the other at <hi>Dan.</hi> For if my <hi>Calfe</hi> had bin a <hi>golden Beast,</hi> 'tis ten to one he had bin Sequestrated, and justly broken in peices, and trans<g ref="char:EOLhyphen"/>form'd into a <hi>Molten Calfe,</hi> and consequently coyned for some other uses; nor is it an <hi>Essex Calfe,</hi> or <hi>Walthams Calfe,</hi> (that went nine miles to suck a <hi>Bull,</hi> and came home againe thirstie;) nor did I ever read, or hear, that any of these fore<g ref="char:EOLhyphen"/>named <hi>Calves</hi> had <hi>white faces.</hi>
+            </p>
+            <p>Thus have I told you what my <hi>Calfe</hi> was not, is not, or ever like to be; now I tell you what he was, is, and will be.
+<pb n="6" facs="tcp:99963:3"/>It is but a little <hi>Calfe</hi> (for the greatest <hi>Calves</hi> are not the sweetest <hi>Veale</hi>) yet as little as it is, it is spread universally over the face of the Earth, and metamorphosed into a ge<g ref="char:EOLhyphen"/>neral Proverbe.</p>
+            <p>And though it be daily in the mouthes of thousands of people, yet it is never devoured or diminished, much like a Taylours Goose, never to be eaten; a meere invisible <hi>Calfe.</hi>
+            </p>
+            <p>My wise, and dearly-beloved Cousins of <hi>London</hi> have fed upon it a long time; they grumbled and repined a<g ref="char:EOLhyphen"/>gainst Peace and Plentie, they had more of Gods blessings then they knew how to make right use of; their Allegeance lay so heavie on their stomacks, that too many of them gave most part of their estates to have a publike faithful Vomit, which made them cast, and cast away so extreamly, that a number of them were like to have cast their hearts out, and so much over-strain'd themselves, that they are cleane out of hope of recoverie, for they have no other earthly com<g ref="char:EOLhyphen"/>fort left, <hi>but a Calfe with a white face.</hi>
+            </p>
+            <p>And all those that grudge against the just Rights of the King, are justly deprived of their just Rights, which (by more then a good many) were unjustly gotten; There was much <hi>Irish</hi> Land bought, which Lands are fruitfull <hi>Fields</hi> in the <hi>Firmament,</hi> fat <hi>Pastures</hi> and <hi>Medowes</hi> in the <hi>Clouds,</hi> and stately <hi>Castles</hi> in the <hi>Ayre.</hi>
+            </p>
+            <p>A great number of mad men were possest with a conceit, that those wise-Akers of invisible Land was to be sold and bought at easie rates by the measure of their owne feet; which caused them to go to the Devills own Shoo-maker, who furnisht them with Boots &amp; Shoos just in the fashion of his owne cloven foot, of a reaching size, longer then the foot by three or four inches; forked as if they made hornes at every bodie they met, (a most excellent policie to gaine
+<pb n="3" facs="tcp:99963:3"/>large penny-worths,) for which thriftie bargaine, they shal be feasted with the head and braines of <hi>a Calfe with a white face.</hi>
+            </p>
+            <p>A wicked crew in the Citie and Countrie, who were imagined to be stout and strong <hi>Pillars</hi> of State; whose Wisedome, Integritie, and Loyalties, might have sup<g ref="char:EOLhyphen"/>ported the Church and Kingdomes in Peace and happie Government; But those <hi>Pillars</hi> are proved to be no bet<g ref="char:EOLhyphen"/>ter then <hi>Cater-pillars,</hi> having devoured and spoyled all our fruitfull Possessions, Spirituall and Temporall; inso<g ref="char:EOLhyphen"/>much, that all those that did put any trust or confidence in them, have scarce so much hope left them as to feed upon the <hi>Calfe with a white face.</hi>
+            </p>
+            <p>It is said, that the East wind doth bring in the most part and greatest number of those kind of destroying Vermin, but we find (by lamentable experience) that all the winds have unfortunatly blown them into our Countrie, but the most damnable swarmes of them were puffed with the blustring breath of <hi>Boreas,</hi> from the cold North.</p>
+            <p>Yet there are some amongst us who are grieved at the odds' and differences that we have, and if they had (or may get so much power into their hands) they would speedily make all our odds even, and end our divisions by dividing.</p>
+            <p>These are the upright-minded <hi>Levellers,</hi> that would have no King, no Magistrate, no Law, no Religion, nor any Man to have more wealth of more wit and honestie then another; that every one might be equall, <hi>trim tram, rowly powly, Jack</hi> as good as <hi>Charles,</hi> and <hi>Joane</hi> as good as my La<g ref="char:EOLhyphen"/>die, all fellowes at <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; But these fellowes shall have the <hi>Calfe with the white face.</hi>
+            </p>
+            <p>These kind of <hi>Levellers</hi> are of an ancient standing in <hi>England,</hi> and in truth they are no upstarts: for neare 300 yeares agoe, in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare of Grace 1380, the fifth yeare of
+<pb n="6" facs="tcp:99963:4"/>the raign of K. <hi>Richard</hi> the second, by the seditious preach<g ref="char:EOLhyphen"/>ing of Parson <hi>John Ball,</hi> they arose in Armes for the same Levelling purpose, and did much mischiefe in the King<g ref="char:EOLhyphen"/>dome, as you may read the full Storie in <hi>Stowes Chronicle,</hi> Page 292, and 293, to which Booke I refer such as desire further satisfaction.</p>
+            <p>Now if every man were to be in an equalitie, we must be all Rich men, or all poore; all Wise men, or all Fooles; all with sight and limbs, or all blind and lame; all civill, or all mad; all sober, or all drunkards; all honest men and women, or all Whores and Whore-masters; all true men, or all Theeves; all old, or all young; all players, or all work<g ref="char:EOLhyphen"/>ers; all Labourers, or all Loyteters; all Gentlemen, or all Clownes and Peasants; &amp;c.</p>
+            <p>I could insist further in this uneven kind of Levelling, but enough is sufficient. <hi>Licurgus</hi> K. of <hi>Sparta,</hi> or <hi>Lacede<g ref="char:EOLhyphen"/>demonia,</hi> when a Fellow asked him, whether hee did not hold it very necessitie to lay all degrees of Persons and their Estates <hi>Levell</hi> throughout all his Dominions, the K. answered him, <hi>That he would have him, and all the rest which were of his mind to begin first to make all Persons equall, and lay all levell in their owne houses.</hi>
+            </p>
+            <p>But now I have done with my <hi>Calfe,</hi> and my <hi>Calfe</hi> hath done with me; for a <hi>Scottish</hi> Pedlar hath gotten him from me, and carried away by Sea from <hi>England</hi> to <hi>Amsterdam</hi> in <hi>Holland,</hi> as this short following relation doth declare.</p>
+            <p>There was a ripe-witted young Lad, borne and brought up North-ward beyond <hi>Barwicke,</hi> betweene <hi>Edenborow</hi> and the <hi>High-Lands,</hi> his name was <hi>Malcolme Magrigger;</hi> This Fellow being of the age of eighteene yeares, left his Country, and sailed in a Ship called the <hi>Mary-carry-knave</hi> into <hi>Poland;</hi> he had not been long there, but he was enter<g ref="char:EOLhyphen"/>tained by a <hi>Scottish</hi> Pedlar (who call themselves Merchants
+<pb n="7" facs="tcp:99963:4"/>in that Countrie) and having scarce served his Master two yeares, he thriv'd so well, that (by running away with his Masters pack) he set up for himselfe, whereby he grew so wickedly rich, that he left <hi>Poland</hi> and came into <hi>Holland;</hi> where at <hi>Amsterdam'd</hi> he hired a faire house, with a shop &amp; a large ware-house, which he stored with all manner of such commodities as he supposed to be most vendible to others, and commodious to himself: You must imagin now that you see him in's Shop with many Customers about him &amp; he very willing to take money as fast as he can.</p>
+            <p>First, one came unto him and asked him if hee had any Religion to fell; he answered, that he was furnished with all Religions, and would sell any man what he had most mind unto, for there was varieties and choyce enough. Looke you Sir, heare is Poperie, if you like it I will afford you a good penny-worth.</p>
+            <p>The other replied, that it was old and stale, and that it had a poore thing in it called Charitie, (which the Papists do imagine to be good-workes) which I hold to be an errone<g ref="char:EOLhyphen"/>ous kind of Doctrine, for I am perswaded, that good works are not meritotious, and therefore my selfe, (with many thousands more of my opinion) never did any, and as near as we can, never meane to trouble our selves with the doing of any. Then said the Merchant; Sir, I would be glad to take your mony, I pray you take your choyce; see here, will you buy the Protestant Religion, I tell you it is a good old one, and the old way is the good way, and the best way. It was answered. That the Protestant Profession did flourish a long time in <hi>England,</hi> till the mad people did mangle and tatter it into ragged Shreds and Sects, and though you have it to sell, yet i thinke no man is so mad as to buy it, for it teacheth Obedience, Loyaltie, and Allegeance to Kings &amp; Princes; Then said the Merchant, Sir, I thinke you came
+<pb n="8" facs="tcp:99963:5"/>not to buy or bargaine; I cannot please your humour, <hi>will you have a Calfe with a white face?</hi>
+            </p>
+            <p>Then came an old Ladie of the last edition friend (quoth she) have you any new fashions to sell for Ladies, Gentlemen, and E<g ref="char:EOLhyphen"/>squire? Laidie (said he) I have the best and newest within the walls of <hi>Afrique</hi> or <hi>America;</hi> here are most exquisit black patch<g ref="char:EOLhyphen"/>es for the face, to illustrate &amp; make the beautie the more conspicu<g ref="char:EOLhyphen"/>ous; here they are in the formes of Flyes, Fleas, Monkeys, and Mag-Pyes, Sun, Moone, Starres, Owles and Pole-Cats: I can as<g ref="char:EOLhyphen"/>sure you Ladie there is much art in the creation of them, and they are in such request in <hi>England,</hi> that a Gentlewoman gave 100 li. for a black patch in the forme of a Coach and foure Horses, which patch was no bigger then the compasse of a <hi>Scotch</hi> three pence. Tush (quoth she) I came to buy no such bables, I would have bought some Honestie, Modestie; and Chastitie, for my selfe, and for my Daughters and Maid-servants: Pish quoth he, your Ladyship doth not well know what you would have, <hi>will you have a Calfe with a white face?</hi>
+            </p>
+            <p>Come Gentlemen, what lack ye? here are fine Ribands of all colours to weare for favours round your Hats, or to garnish and adorn your Codpiece for the honour and exaltation of the Toole of Transgression; Come along Customers; here are curious Salt-Sellers and Knives hefte made of black, white, and gray marble, out of the Ruins and Reliques of old Charing Crosse; here is a fine Shooing-Horne made out of part of the nayle of <hi>Gargantu's</hi> little finger, here are Dice made of the Eye-Teeth of the famous Witch of <hi>Endor:</hi> What, are you all lookers on and gaping-gazers, will nothing fit you, will you have <hi>a Calfe with a white face?</hi>
+            </p>
+            <p>Here is a rare piece of workmanship, a brave Picture of a good King to be sold, his person hath been bought, sold and bartered, more times then he hath fingers and toes; come buy, buy.</p>
+            <p>What lack ye Sir? Then said an <hi>English</hi> man, have you any <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Bookes? yes Sir, I have Bookes of Roguerie, Vilianie, Lyes, Perfect Currant Lyes, Moderate Lyes, Lyes of all shapes &amp; sizes: The other replyed, a pox take 'em, we have too many of them in <hi>England,</hi> they are as plenty full as durt, and cryed every day a<g ref="char:EOLhyphen"/>bout the streets of <hi>London</hi> and <hi>Westminster</hi> for pence a peece. The Pediat answered, Sir, I have none that will give you content, I thinke you would have <hi>a Calfe with a white face;</hi> farewell, good night, I will shut up my Shop with</p>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:99963:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
